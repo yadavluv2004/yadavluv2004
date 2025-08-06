@@ -25,7 +25,7 @@ Email Me 👉 ✉️ **yadav.luv2004@gmail.com** For Collaboration/Project or An
 </div>
 
 
-### ✍️ Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
