@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Luv Yadav
 **A passionate Full Satck Developer**
-<p><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130"></p>
+<p><img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="150"></p>
 Email Me 👉 ✉️ **yadav.luv2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Ai Powerded Trip Planner
